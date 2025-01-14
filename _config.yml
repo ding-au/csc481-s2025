@@ -1,8 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CSC-481/681
+description: Machine Learning/Cybersecurity
 theme: just-the-docs
 
-url: https://ding-au.github.io/csc481-s2025/
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://ding-au.github.io/csc481-s2025
